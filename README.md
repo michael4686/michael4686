@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **michael4686/michael4686** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-About Me:
+
+##About Me:
 Aspiring Data Engineer and Data Science student with a strong foundation in ETL, SQL, and Python. Completed the Microsoft Data Engineering program through the Egypt Digital Pioneers Initiative.
